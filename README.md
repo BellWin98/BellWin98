@@ -1,29 +1,30 @@
-# 한종승 HAN JONGSEUNG 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0b0f4d,100:1c1c86&height=200&section=header&text=BellWin's%20Github&fontColor=FFD700&fontSize=60&fontAlignY=35&desc=Backend%20Developer&descAlignY=65&descAlign=60&animation=fadeIn&speed=3)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:bellwin98@gmail.com)
+
+
+## 👋 About Me
+
+안녕하세요! 저는 현재 **니트소프트에서 백엔드개발자로 근무하며, 자이C&A의 사내 포털 시스템을 개발**하고 있는 **한종승**입니다.
+
+> 유저의 경험을 최우선으로 생각하고, 근본적인 문제 해결을 위해 고민하여 더 나은 서비스를 만들어 나가는 데 몰입하고 있습니다.
+
+<br>
+
+---
+
+## 🛠 Tech Stack
+
+| **Category**       | **Technologies** |
+|--------------------|------------------|
+| **Backend**        | Java, Spring Boot, MariaDB, Redis, JPA, QueryDSL |
+| **DevOps & Tools** | GitHub Actions, AWS, Docker, Swagger, UiPath Studio(RPA) |
+
+<br>
+
+---
 
 ![JongSeung's GitHub stats](https://github-readme-stats.vercel.app/api?username=BellWin98&count_private=true&show_icons=true&theme=radical) <br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjs1351)](https://solved.ac/hjs1351/)
 
-# 💪 기술 스택
->  ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
->  ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
->  ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white)
->  ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
->  ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white)
->  ![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
->  ![Amazon EC2](https://img.shields.io/badge/amazonec2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white)
->  ![Amazon RDS](https://img.shields.io/badge/amazonrds-527FFF.svg?&style=for-the-badge&logo=amazonrds&logoColor=white)
->  ![Amazon S3](https://img.shields.io/badge/amazons3-569A31.svg?&style=for-the-badge&logo=amazons3&logoColor=white)
->  ![Spring security](https://img.shields.io/badge/SpringSecurity-6DB33F.svg?&style=for-the-badge&logo=SpringSecurity&logoColor=white)
 
-</br>
-
->  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
->  ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
->  ![vuedotjs](https://img.shields.io/badge/Vue-4FC08D.svg?&style=for-the-badge&logo=Vuedotjs&logoColor=white)
-
-</br>
-
->  ![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
->  ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
->  ![Visual Studio Code](https://img.shields.io/badge/VScode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
->  ![IntelliJ Idea](https://img.shields.io/badge/IntelliJidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
