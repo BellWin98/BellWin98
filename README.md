@@ -21,7 +21,7 @@
 
 | **Category**       | **Technologies** |
 |--------------------|------------------|
-| **Backend**        | Java, Spring Boot, MariaDB, Redis, JPA, QueryDSL |
+| **Backend**        | Java, Spring Boot, MariaDB, Oracle, Redis, JPA, MyBatis, QueryDSL |
 | **DevOps & Tools** | GitHub Actions, AWS, Docker, Swagger, UiPath Studio(RPA) |
 
 <br>
