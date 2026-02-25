@@ -6,10 +6,10 @@
 ## 👋 About Me
 
 안녕하세요! 
-<br>저는 현재 **NEATSOFT에서 백엔드 개발자로 근무하며, 자이C&A의 사내 포털 시스템을 개발**하고 있는 **한종승**입니다.
+<br>저는 현재 **NEATSOFT에서 백엔드 개발자로 근무하며, 자이C&A의 사내 포털 시스템을 운영**하고 있는 **한종승**입니다.
 <br>
 
-> 사용자 경험을 최우선으로 생각하여 문제 해결에 집중하기 위해 TPO에 맞는 기술을 사용합니다.
+> 사용자 경험을 최우선으로 생각하며, 기술로 문제를 해결하는 것을 좋아합니다.
 
 <br>
 
@@ -19,8 +19,8 @@
 
 | **Category**       | **Technologies** |
 |--------------------|------------------|
-| **Backend**        | Java, Spring Boot, MariaDB, Oracle, Redis, JPA, MyBatis, QueryDSL |
-| **DevOps & Tools** | GitHub Actions, AWS, Docker, Swagger, UiPath Studio(RPA) |
+| **Server**        | Java, Spring Framework, JPA, Oracle, MariaDB, Redis, AWS, Github Actions, Docker      |
+| **Front & ETC**   | JSP, React.js, UiPath Studio(RPA) |
 
 <br>
 
@@ -43,7 +43,6 @@
 
 <br>
 
-![JongSeung's GitHub stats](https://github-readme-stats.vercel.app/api?username=BellWin98&count_private=true&show_icons=true&theme=radical) <br><br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjs1351)](https://solved.ac/hjs1351/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bellwin98)](https://solved.ac/bellwin98/)
 
 
